@@ -5,7 +5,7 @@
 void setup()
 {
   pinMode(A5, INPUT);
-  // Initialize Serial Communication at 9600 bauds
+  // Initialize Serial Communication at 9600
   Serial.begin(9600);
 }
 
