@@ -1,0 +1,4 @@
+﻿Name,Quantity,Component
+"U1",1," 5V Regulator [LM7805]"
+"P1",1,"0 , 5  Power Supply"
+"Meter1, Meter2",2,"Voltage Multimeter"
